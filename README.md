@@ -1,6 +1,6 @@
 # 🖥️ ShellOS – A Flutter-Based Linux Mobile Shell
 
-![ShellOS Banner](https://github.com/harin77/ShellOS/blob/main/Image/photo_2025-11-12_20-37-21.jpg)
+![ShellOS Banner](https://github.com/harin77/ShellOS/blob/main/Image/photo_2025-11-12_20-37-30.jpg)
 
 ---
 
